@@ -1,3 +1,4 @@
+A microservice backed by postgreSQL to store user information
 ## Installation
 
 ```bash
